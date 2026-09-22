@@ -1,6 +1,6 @@
 ### Hi, I'm Rahul Pawar
 
-Full-stack developer working mainly in JavaScript and TypeScript — Node.js/Express on the backend, React/Next.js on the frontend. I build complete, working products rather than tutorials: booking systems, e-commerce storefronts, admin dashboards, AI agents.
+MERN-stack developer working mainly in JavaScript and TypeScript — Node.js/Express on the backend, React/Next.js on the frontend. I build complete, working products rather than tutorials: booking systems, e-commerce storefronts, admin dashboards, AI agents.
 
 **Tech I use most:** JavaScript, TypeScript, Node.js, Express, Next.js, React, MongoDB, PostgreSQL, Prisma, Payload CMS
 
