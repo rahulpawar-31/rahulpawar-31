@@ -6,11 +6,13 @@ MERN-stack developer working mainly in JavaScript and TypeScript — Node.js/Exp
 
 ### Featured projects
 
-- **[Personal-AI](https://github.com/rahulpawar-31/Personal-AI)** — DevOS Agent, an AI command center that automates Gmail, Calendar, Notion, GitHub, Trello and Slack using Gemini and Llama
-- **[payload-ecommerce](https://github.com/rahulpawar-31/payload-ecommerce)** — Headless e-commerce storefront built with Payload CMS, Next.js and Dodo Payments
-- **[car-rental](https://github.com/rahulpawar-31/car-rental)** — Car rental booking API with JWT auth, Razorpay payments and Cloudinary uploads
-- **[library-management-system](https://github.com/rahulpawar-31/library-management-system)** — Library management backend with JWT auth and email notifications
-- **[my-portfolio](https://github.com/rahulpawar-31/my-portfolio)** — This portfolio site, built with Next.js, Prisma and Tailwind CSS
+| Project | Repo | Live site |
+|---|---|---|
+| DevOS Agent (Personal-AI) | [rahulpawar-31/Personal-AI](https://github.com/rahulpawar-31/Personal-AI) | [Demo](https://personal-ai-blue.vercel.app) |
+| Payload E-commerce | [rahulpawar-31/payload-ecommerce](https://github.com/rahulpawar-31/payload-ecommerce) | [Demo](https://payload-ecommerce-eight.vercel.app) |
+| Car Rental | [rahulpawar-31/car-rental](https://github.com/rahulpawar-31/car-rental) | [Demo](https://car-rental-two-ochre.vercel.app) |
+| Library Management System | [rahulpawar-31/library-management-system](https://github.com/rahulpawar-31/library-management-system) | — |
+| Portfolio | [rahulpawar-31/my-portfolio](https://github.com/rahulpawar-31/my-portfolio) | [Demo](https://my-portfolio-pearl-eight-ki13whxvso.vercel.app) |
 
 ### GitHub stats
 
